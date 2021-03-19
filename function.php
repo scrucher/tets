@@ -2,7 +2,7 @@
 session_start();
 
 // connect to database
-$db = mysqli_connect('127.0.0.1', 'root', 'darksoul', 'multi_login');
+$db = mysqli_connect('127.0.0.1', 'root', 'darksoul', 'test1');
 
 // variable declaration
 $username = "";
